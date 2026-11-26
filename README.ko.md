@@ -10,13 +10,10 @@
 
 > 풀스택이 되는 방법에 대한 큐레이션 목록
 
+**추천:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - 브라우저의 캔버스 하나에 모든 터미널을. 여러 코딩 에이전트(Claude Code, Codex, Cursor, 일반 셸)를 나란히 실행하고, 어떤 에이전트가 당신을 기다리는지, 각각 어느 단계에 있는지, 무엇을 작성했는지 한눈에 확인하세요. 당신의 컴퓨터에서 실행됩니다.
+
 프론트엔드, 중간 계층, 백엔드, 알고리즘, 지속적 전달을 배우세요. 참고:
 Stack Overflow에서 아무 태그나 클릭한 뒤 info 탭을 열면 해당 태그에 대한 리소스를 찾을 수 있습니다.
-
-<a id="featured"></a>
-## 추천
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - 브라우저의 캔버스 하나에 모든 터미널을. 여러 코딩 에이전트(Claude Code, Codex, Cursor, 일반 셸)를 나란히 실행하고, 어떤 에이전트가 당신을 기다리는지, 각각 어느 단계에 있는지, 무엇을 작성했는지 한눈에 확인하세요. 당신의 컴퓨터에서 실행됩니다.
 
 <a id="what-to-learn"></a>
 # 배울 것

@@ -10,13 +10,10 @@
 
 > Eine kuratierte Liste, um Full Stack zu werden
 
+**Empfohlen:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Alle deine Terminals auf einer Leinwand im Browser. Lass mehrere Coding-Agenten (Claude Code, Codex, Cursor und normale Shells) nebeneinander laufen und sieh auf einen Blick, welcher auf dich wartet, bei welchem Schritt jeder ist und was jeder für dich geschrieben hat. Läuft auf deinem eigenen Rechner.
+
 Lerne Frontend, Mittelschicht, Backend, Algorithmen und Continuous Delivery. Tipp: Wenn du
 auf Stack Overflow einen beliebigen Tag anklickst und den Info-Tab öffnest, findest du Ressourcen zu diesem Tag.
-
-<a id="featured"></a>
-## Empfohlen
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - Alle deine Terminals auf einer Leinwand im Browser. Lass mehrere Coding-Agenten (Claude Code, Codex, Cursor und normale Shells) nebeneinander laufen und sieh auf einen Blick, welcher auf dich wartet, bei welchem Schritt jeder ist und was jeder für dich geschrieben hat. Läuft auf deinem eigenen Rechner.
 
 <a id="what-to-learn"></a>
 # Was du lernen solltest

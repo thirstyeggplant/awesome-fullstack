@@ -10,13 +10,10 @@
 
 > Daftar pilihan untuk menjadi Full Stack
 
+**Unggulan:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Semua terminal Anda di satu kanvas di browser. Jalankan beberapa agen coding (Claude Code, Codex, Cursor, dan shell biasa) berdampingan dan lihat sekilas mana yang sedang menunggu Anda, di langkah mana masing-masing berada, dan apa yang telah ditulis masing-masing untuk Anda. Berjalan di komputer Anda sendiri.
+
 Pelajari front-end, lapisan tengah, back-end, algoritme, dan continuous delivery. Tips: jika Anda
 membuka Stack Overflow, mengeklik tag apa pun, lalu membuka tab info, Anda akan menemukan sumber tentang tag tersebut.
-
-<a id="featured"></a>
-## Unggulan
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - Semua terminal Anda di satu kanvas di browser. Jalankan beberapa agen coding (Claude Code, Codex, Cursor, dan shell biasa) berdampingan dan lihat sekilas mana yang sedang menunggu Anda, di langkah mana masing-masing berada, dan apa yang telah ditulis masing-masing untuk Anda. Berjalan di komputer Anda sendiri.
 
 <a id="what-to-learn"></a>
 # Apa yang dipelajari

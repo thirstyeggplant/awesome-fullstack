@@ -10,13 +10,10 @@
 
 > Une sélection pour devenir développeur Full Stack
 
+**À la une :** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Tous vos terminaux sur un seul canevas dans votre navigateur. Lancez plusieurs agents de code (Claude Code, Codex, Cursor et shells classiques) côte à côte et voyez d’un coup d’œil lequel vous attend, à quelle étape en est chacun et ce que chacun a écrit pour vous. Fonctionne sur votre propre ordinateur.
+
 Apprenez le front-end, la couche intermédiaire, le back-end, l’algorithmique et la livraison continue. Astuce : si vous
 allez sur Stack Overflow, cliquez sur un tag puis ouvrez l’onglet info, vous trouverez des ressources sur ce tag.
-
-<a id="featured"></a>
-## À la une
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - Tous vos terminaux sur un seul canevas dans votre navigateur. Lancez plusieurs agents de code (Claude Code, Codex, Cursor et shells classiques) côte à côte et voyez d’un coup d’œil lequel vous attend, à quelle étape en est chacun et ce que chacun a écrit pour vous. Fonctionne sur votre propre ordinateur.
 
 <a id="what-to-learn"></a>
 # Quoi apprendre

@@ -8,12 +8,10 @@
 
 > A curated list on how to Full Stack
 
+**Featured:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - All your terminals on one canvas in your browser. Run several coding agents (Claude Code, Codex, Cursor and plain shells) side by side and see at a glance which one is waiting for you, which step each is on, and what each has written for you. Runs on your own computer.
+
 Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery. Note: if you
 go to stackoverflow and click any tag, then go to the info tab, it should contain resources about that tag.
-
-## Featured
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - All your terminals on one canvas in your browser. Run several coding agents (Claude Code, Codex, Cursor and plain shells) side by side and see at a glance which one is waiting for you, which step each is on, and what each has written for you. Runs on your own computer.
 
 # What to Learn
 0. [Trending](https://github.com/whatwhatgoose/trending/issues)

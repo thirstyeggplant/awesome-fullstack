@@ -10,13 +10,10 @@
 
 > Una lista seleccionada sobre cómo ser Full Stack
 
+**Destacado:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Todas tus terminales en un solo lienzo en tu navegador. Ejecuta varios agentes de programación (Claude Code, Codex, Cursor y shells normales) en paralelo y ve de un vistazo cuál te está esperando, en qué paso está cada uno y qué ha escrito cada uno para ti. Se ejecuta en tu propio ordenador.
+
 Aprende front-end, capa intermedia, back-end, algoritmos y entrega continua. Nota: si
 vas a Stack Overflow, haces clic en cualquier etiqueta y abres la pestaña de información, encontrarás recursos sobre esa etiqueta.
-
-<a id="featured"></a>
-## Destacado
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - Todas tus terminales en un solo lienzo en tu navegador. Ejecuta varios agentes de programación (Claude Code, Codex, Cursor y shells normales) en paralelo y ve de un vistazo cuál te está esperando, en qué paso está cada uno y qué ha escrito cada uno para ti. Se ejecuta en tu propio ordenador.
 
 <a id="what-to-learn"></a>
 # Qué aprender

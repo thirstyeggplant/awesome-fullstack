@@ -10,13 +10,10 @@
 
 > 关于如何成为全栈开发者的精选列表
 
+**推荐：** [Aubergine](https://github.com/thirstyeggplant/aubergine) - 在浏览器中把所有终端放在同一块画布上。并排运行多个编程智能体（Claude Code、Codex、Cursor 以及普通 shell），一眼就能看出哪个在等你、每个进行到哪一步、各自为你写了什么。完全在你自己的电脑上运行。
+
 学习前端、中间层、后端、算法和持续交付。提示：如果你
 在 Stack Overflow 上点击任意标签，再打开 info 选项卡，就能找到该标签的相关资源。
-
-<a id="featured"></a>
-## 精选推荐
-
-- **[Aubergine](https://github.com/thirstyeggplant/aubergine)** - 在浏览器中把所有终端放在同一块画布上。并排运行多个编程智能体（Claude Code、Codex、Cursor 以及普通 shell），一眼就能看出哪个在等你、每个进行到哪一步、各自为你写了什么。完全在你自己的电脑上运行。
 
 <a id="what-to-learn"></a>
 # 学习内容
