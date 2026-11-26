@@ -383,7 +383,6 @@ MIT
 >[Skills to for machine learning by OpenAI CTO, Greg Brockman](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer/answer/Greg-Brockman?srid=cgo&share=d1ac0da2)
 
 - [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.runmpceje)
-- [Deep Learning Book](https://github.com/HFTrader/DeepLearningBook)
 - [How to start deep learning](http://ofir.io/How-to-Start-Learning-Deep-Learning/)
 - [Hello Tensor Flow](https://www.oreilly.com/learning/hello-tensorflow)
 - [MIT deep learning press book](http://www.deeplearningbook.org/)
@@ -539,7 +538,6 @@ MIT
 
 # Networking
 - [Online Course: Computer Networking Playlist](https://www.youtube.com/watch?v=d4_7dUFl4v0&list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj)
-- [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/output/html/multipage/index.html)
 - [LearnCode.Academy: How the Internet Works](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
 - [Eli the computer guy on youtube: Networking](https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5)
 - [danscourses: youtube channel](https://www.youtube.com/user/danscourses/featured)
@@ -695,6 +693,7 @@ MIT
 - [web.dev Learn](https://web.dev/learn)
 - [CS50](https://cs50.harvard.edu/x/)
 - [Frontend Masters](https://frontendmasters.com/)
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 
 # Resource
 > Other stuff
@@ -735,7 +734,6 @@ MIT
 - [Reveal](https://github.com/hakimel/reveal.js)
 - [Robo Browser](https://github.com/jmcarp/robobrowser)
 - [Selenium](http://www.seleniumhq.org/)
-- [Nightmare JS](https://github.com/segmentio/nightmare)
 - [Daydream](https://github.com/segmentio/daydream)
 - [MUI](https://mui.com/)
 - [Motion](https://motion.dev/) - Animation for React, JS and Vue
@@ -843,7 +841,6 @@ MIT
 - [quora](https://www.quora.com/Where-can-I-find-difficult-algorithm-data-structure-problems)
 - [haseebq](http://haseebq.com/)
 - [haseebq](http://haseebq.com/farewell-app-academy-hello-airbnb-part-i/)
-- [android interview](https://github.com/fanrunqi/AndroidInterview)
 - [land an autonomous vehicle job](https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740#.rjdtvrill)
 - [bingo cheat sheet (time complexity)](http://bigocheatsheet.com/)
 - [average vs amortized](http://programmers.stackexchange.com/questions/161404/amortized-analysis-worst-case-performance-guarantees)
