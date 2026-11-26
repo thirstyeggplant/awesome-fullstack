@@ -83,7 +83,6 @@ MIT
       - Legacy: [AngularJS (end of life)](https://github.com/gianarb/awesome-angularjs)
       - [Backbone](https://github.com/sadcitizen/awesome-backbone)
       - [Ember](https://github.com/nmec/awesome-ember)
-      - [Mithril](https://github.com/lhorie/mithril)
   - Build Tools
       - [Vite](https://vite.dev/)
       - [esbuild](https://esbuild.github.io/)
@@ -125,9 +124,8 @@ MIT
       - [Plausible](https://plausible.io/) - Privacy-friendly analytics
       - [Lighthouse](https://developer.chrome.com/docs/lighthouse/)
       - [Crazy Egg](https://www.crazyegg.com/)
-      - [Sumo Me](https://sumome.com/app/heat-maps)
   - Checklist
-      - [Web Checklist](http://webdevchecklist.com/), [Github](https://github.com/ligershark/webdevchecklist.com)
+      - [Web Checklist](http://webdevchecklist.com/)
       - [Landing Page Checklist](http://unbounce.com/landing-pages/checklist/)
       - [Website Laung Checklist](https://news.ycombinator.com/item?id=9522885)
       - [Web Components](https://github.com/webcomponents/gold-standard/wiki)
@@ -165,7 +163,6 @@ MIT
 8. **IoT**
   1. [Arduino](https://github.com/Lembed/Awesome-arduino)
   2. [Raspberry Pi](https://github.com/blackout314/awesome-raspberry-pi)
-9. [**Embedded**](http://www.instructables.com/tag/type-id/category-technology/)
 10. Desktop
   1. [Awesome Electron](https://github.com/sindresorhus/awesome-electron)
   2. [Tauri](https://tauri.app/) - Small, fast desktop and mobile apps with a web front end
@@ -179,7 +176,6 @@ MIT
   - [C](https://github.com/kozross/awesome-c)
   - [C++](https://github.com/fffaraz/awesome-cpp)
   - [C# / Dotnet](https://github.com/quozd/awesome-dotnet)
-  - [Elixir/Erlang](http://www.phoenixframework.org/docs/learning-elixir-and-erlang)
   - [Go](https://github.com/thirstyeggplant/awesome-fullstack#go-server)
   - [Java](https://github.com/akullpp/awesome-java)
   - [Javascript](https://github.com/thirstyeggplant/awesome-fullstack#javascript-server)
@@ -296,7 +292,6 @@ MIT
 - [MIT 6.5840 (formerly 6.824)](https://pdos.csail.mit.edu/6.824/)
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [Ed X](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x)
 - [Washington CSE 452](https://courses.cs.washington.edu/courses/cse452/16wi/calendar/lecturelist.html)
 
 
@@ -367,7 +362,6 @@ MIT
 - [Berkeley Intro to AI 2015 version](https://www.youtube.com/playlist?list=PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u)
 - [Berkeley Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 - [Udacity Intro To ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-- [MIT 6.034](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [Neural Networks & Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [Data Sets](https://github.com/caesar0301/awesome-public-datasets)
 - [Open AI Generative Models](https://openai.com/blog/generative-models/)
@@ -387,7 +381,6 @@ MIT
 - [How to start deep learning](http://ofir.io/How-to-Start-Learning-Deep-Learning/)
 - [Hello Tensor Flow](https://www.oreilly.com/learning/hello-tensorflow)
 - [MIT deep learning press book](http://www.deeplearningbook.org/)
-- [Reinforcement learning an introduction](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
 - [Reinforcement Learning at georgia tech](https://www.udacity.com/course/reinforcement-learning--ud600)
 
 
@@ -435,7 +428,6 @@ MIT
 
 # HTML Intro
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
-- [Free Code Camp](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)
 - [Code Academy](https://www.codecademy.com/learn/web)
 - [Shayhowe](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
 - [W3C HTML5 Tutorial](http://www.w3schools.com/html/)
@@ -444,7 +436,6 @@ MIT
 
 # CSS Intro
 - [Khan Academy](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/p/css-basics)
-- [Free Code Camp](https://www.freecodecamp.com/challenges/use-css-selectors-to-style-elements)
 - [w3c](http://www.w3schools.com/css/)
 - [Learn Layout](http://learnlayout.com/margin-auto.html)
 - [Shayhowe](http://learn.shayhowe.com/html-css/getting-to-know-css/)
@@ -456,7 +447,6 @@ MIT
 - [Load Spinners](http://github.danielcardoso.net/load-awesome/animations.html)
 
 # JS Intro
-- [Free Code Camp](https://www.freecodecamp.com/challenges/comment-your-javascript-code)
 - [w3c](http://www.w3schools.com/js/)
 - [codeacademy](https://www.codecademy.com/learn/javascript)
 - [egghead](https://egghead.io/technologies/js)
@@ -464,7 +454,6 @@ MIT
 
 
 # Jquery Intro
-- [Free code camp](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
 
 # JS Intermediate
 - [AirBNB: JS Style Guide](https://github.com/airbnb/javascript)
@@ -499,7 +488,6 @@ MIT
 > Server side programming different languages
 
 # Server Erlang
-- [Elixir/Erlang](http://www.phoenixframework.org/docs/learning-elixir-and-erlang)
 - [StackOverflow Erlang](http://stackoverflow.com/tags/erlang/info)
 
 # Go Server
@@ -551,10 +539,8 @@ MIT
 - [Warriors of the net: Video](https://www.youtube.com/watch?v=PBWhzz_Gn10)
 - [Tuts +: HTTP](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 - [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/index.htm)
-- [Cheat SHeet](http://packetlife.net/library/cheat-sheets/)
 - [Subnetting Practice](http://subnettingpractice.com/howto.html)
 - [Reddit CCNA](https://www.reddit.com/r/ccna/)
-- [Subnet made easy](https://docs.google.com/document/u/1/d/1O84JC1KnLFYUNo2CUYCtvEtJkkiM05uOATxaA1hlz6Y/mobilebasic?pli=1)
 - [Cisco from scratch](http://ciscoiseasy.blogspot.ca/)
 - [Cisco Learning Network](https://learningnetwork.cisco.com/welcome)
 - [SDN: Software Defined Networking Coursera](https://www.coursera.org/course/sdn1)
@@ -630,9 +616,7 @@ MIT
 - [Use The Index, Luke](https://use-the-index-luke.com/)
 - [Setting Up SQL/ PostgreSQL](https://github.com/snowplow/snowplow/wiki/Setting-up-PostgreSQL)
 - [Bostongis: Postgis](http://www.bostongis.com/)
-- [Boundless geo: Postgis](http://workshops.boundlessgeo.com/suiteintro/postgis/index.html)
 - [Archaeogeek: Postgis](http://www.archaeogeek.com/portable-gis.html)
-- [Dublin Institute: Postgis](http://www.comp.dit.ie/pbrowne/Spatial%20Databases%20SDEV4005/Spatial%20Databases%20SDEV4005.htm)
 - [osgeo posgis wiki: Postgis](http://trac.osgeo.org/postgis/wiki/UsersWikiTutorials)
 - [Postgis in action: Postgis](https://www.manning.com/books/postgis-in-action-second-edition)
 
@@ -659,7 +643,6 @@ MIT
 - [Sysadmincats](https://sysadmincasts.com/)
 - [Bash Academy](http://www.bash.academy/)
 - [Smart Bear](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
-- [Fog Creek](http://blog.fogcreek.com/effective-code-reviews-9-tips-from-a-converted-skeptic/)
 - [Methods and Tools](http://www.methodsandtools.com/archive/archive.php?id=66)
 - [Self Hosting](https://github.com/Kickball/awesome-selfhosted)
 
@@ -756,7 +739,6 @@ MIT
 - [awesome newsletters](https://github.com/vredniy/awesome-newsletters)
 
 # Blogs
-- [highscalability](http://highscalability.com/all-time-favorites/)
 - [hired in tech](http://www.hiredintech.com/system-design)
 - [bike shed](http://bikeshed.fm/)
 - [software engineering daily](https://softwareengineeringdaily.com/)
@@ -781,7 +763,6 @@ MIT
 - [Data mining](http://guidetodatamining.com/)
 - [Data mining algorithm](https://github.com/linyiqun/DataMiningAlgorithm)
 - [mining software repos](https://github.com/dspinellis/awesome-msr)
-- [Data mining books](https://www.lenwood.cc/2014/05/13/12-free-data-mining-books/)
 - [Data mining algo](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [stackshare](http://stackshare.io/)
 
@@ -789,7 +770,6 @@ MIT
 # Other
 - [Hardware AUtopsy using gameboy](https://www.youtube.com/watch?v=RZUDEaLa5Nw)
 - [LaTeX / PDF](http://www.latex-tutorial.com/tutorials/)
-- [Git](http://marc.helbling.fr/2014/09/practical-git-introduction)
 - [Text Editor](https://www.learnenough.com/text-editor-tutorial)
 - [System Programming](https://github.com/angrave/SystemProgramming/wiki)
 - [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
@@ -813,7 +793,6 @@ MIT
 - [Hack the North](https://hackthenorth.com/)
 - [Space Apps Challenge](https://www.spaceappschallenge.org/)
 - [World Hackathon Day](http://worldhackathonday.com/)
-- [Dart Lang Hackathon](https://www.dartlang.org/hackathons/2012/happy-hour/)
 
 # Resume and Cover Letter
 - [Stackoverflow: A new technical resume](https://news.ycombinator.com/item?id=12685700)
@@ -858,14 +837,11 @@ MIT
 - [working nomads](http://www.workingnomads.co/jobs)
 - [who is hiring](https://news.ycombinator.com/submitted?id=whoishiring)
 - [who is hiring](https://whoishiring.io/search/56.130/-105.732/3/?order=distance)
-- [stay in tech](https://stayintech.com/info/explore)
 - [Wellfound (formerly AngelList Talent)](https://wellfound.com/)
-- [job hero weekly](http://www.jobheroweekly.com/)
 - [hnhiring](http://hnhiring.me/)
 - [simply hired](http://www.simplyhired.com/)
 - [hired](https://hired.ca/)
 - [lever](https://www.lever.co/)
-- [remote bas](https://remotebase.io/)
 - [nomad list](https://nomadlist.com/)
 - [remote teams](http://oinam.github.io/remote-teams/)
 - [we work remotely](https://weworkremotely.com/)
